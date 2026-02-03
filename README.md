@@ -1,16 +1,21 @@
-## Hi there 👋
+[![Java](https://img.shields.io/badge/Java-17-orange?style=for-the-badge&logo=java)]
+```
+✅ Reclutador ve inmediatamente: Java 17, Spring Boot 3.2, MySQL, AWS
 
-<!--
-**MichaelJTG/MichaelJTG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 2️⃣ **DESCRIPCIÓN TIPO ELEVATOR PITCH** (15 segundos)
+- ✅ Qué hace
+- ✅ Qué problema resuelve
+- ✅ Tecnologías clave
 
-Here are some ideas to get you started:
+#### 3️⃣ **CARACTERÍSTICAS CON EMOJIS** (escaneable)
+```
+🔐 Seguridad Robusta
+🏗️ Arquitectura Empresarial
+💾 Persistencia de Datos
+```
+✅ Fácil de leer en 30 segundos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 4️⃣ **DIAGRAMA DE FLUJO JWT** (demuestra conocimiento)
+```
+Cliente → Backend → DB
+Con flechas y explicación
