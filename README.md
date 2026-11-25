@@ -4,7 +4,7 @@
 
 **Ciberseguridad ofensiva y defensiva · Perfil junior · Base como desarrollador**
 
-📍 Valencia, España
+📍 Valencia - Madrid, España
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-telleria)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michael.jt.pro@gmail.com)
@@ -123,7 +123,7 @@ Desarrollo seguro en PHP/PrestaShop (CSRF, validación de subidas según OWASP),
 
 <div align="center">
 
-**Abierto a oportunidades en pentesting y SOC N1, en Valencia o en remoto.**
+**Abierto a oportunidades en pentesting y SOC N1, en Valencia - Madrid o en remoto.**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-michael--telleria-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-telleria)
 [![Email](https://img.shields.io/badge/Email-michael.jt.pro%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:michael.jt.pro@gmail.com)
